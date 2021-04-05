@@ -2,5 +2,4 @@ pandas
 numpy
 nltk
 sklearn
-pickle
 gunicorn
