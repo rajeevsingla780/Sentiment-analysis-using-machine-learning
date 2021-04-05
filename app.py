@@ -4,7 +4,7 @@ import numpy as np
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
-
+nltk.download('stopwords')
 import pickle
 app = Flask(__name__)
 @app.route('/',methods=['POST','GET'])
