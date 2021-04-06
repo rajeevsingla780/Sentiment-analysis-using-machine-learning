@@ -14,7 +14,7 @@ This repository consists of files required for end to end implementation and dep
 
 ## App Link
 If you want to view the deployed model, click on the following link:<br />
-[ https://resrevsent.herokuapp.com/]( https://resrevsent.herokuapp.com/)
+[ https://ml-senti-analysis.herokuapp.com/]( https://ml-senti-analysis.herokuapp.com/)
 
 A glimpse of the web app:
 
@@ -49,10 +49,6 @@ The next step would be to follow the instruction given in the [Heroku Documentat
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
-
-## Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/divyansh1195/Restaurant-Reviews-Sentiment-Analysis/issues) here by including your search query and the expected result
 
 
 ## Please do ⭐ the repository, if it helped you in anyway.
