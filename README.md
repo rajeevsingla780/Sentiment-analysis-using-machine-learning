@@ -9,8 +9,6 @@ This repository consists of files required for end to end implementation and dep
   * [About the App](#about-the-app)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Technologies Used](#technologies-used)
-  * [Bug / Feature Request](#bug---feature-request)
-
 
 ## App Link
 If you want to view the deployed model, click on the following link:<br />
